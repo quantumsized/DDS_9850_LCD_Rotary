@@ -1,0 +1,1 @@
+This is a sketch using a 16x2 LCD on i2c and a AD9850 DDS signal generator.  I added a rotary encoder for ease of adjustment of frequency.  There could be a number of ways this could be expended but I reckon this is a good start.
